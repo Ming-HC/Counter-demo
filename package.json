@@ -2,7 +2,7 @@
   "name": "counter-demo",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ming-hc.github.io/counter-demo",
+  "homepage": "https://ming-hc.github.io/Counter-demo",
   "dependencies": {
     "@emotion/react": "^11.11.1",
     "@emotion/styled": "^11.11.0",
