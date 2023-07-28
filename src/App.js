@@ -9,7 +9,7 @@ class App extends Component {
        <BrowserRouter>
         <div>
             <Switch>
-             <Route path="/" component={Counter} exact/>
+             <Route path="/Counter-demo" component={Counter} exact/>
            </Switch>
         </div> 
       </BrowserRouter>
